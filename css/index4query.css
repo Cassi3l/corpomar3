@@ -1,0 +1,173 @@
+@media screen and (max-width : 1024px){
+	
+	.item,
+.item-hover,
+.item-hover .mask,
+.item-img,
+.item-type-move .item-info {
+	width:329px;
+	height:458px;
+}
+
+.headline {
+	font-size:25px !important;
+	line-height:35px !important;							
+}
+
+.galeria{
+	padding-left:20px;	
+}
+
+#navieras{
+	top:92%;
+}
+
+h1{
+	font-size:25px !important;
+	line-height:35px;
+}
+
+h2{
+	font-size:15px !important;
+	line-height:20px;
+	margin:0 0 10px 0 !important;
+}
+
+.intro{
+	font-size:15px;
+	line-height:25px;
+	margin:0 auto 0 auto;
+	width:625px;	
+}
+
+.caja-texto{
+	padding:70px 0 20px 0;
+}
+
+.caja-texto2{
+	padding:20px 0 20px 0;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width : 768px){
+	
+	header{
+	height:75px;
+	padding:10px 0;
+}
+
+header img{
+	width:33px;
+	height:46px;
+}
+
+nav{
+	width:625px;
+}
+
+nav ul li{
+	padding-right:10px;
+	font-size:10px;
+}
+
+#contenido-footer{
+	width:625px;
+	height:50px;
+	padding-top:10px;
+}
+
+.contacto nav{
+	width:300px;
+	padding-top:7px;
+}
+
+.contacto nav ul li{
+	font-size:10px;
+}
+
+.redes nav{
+	width:320px;
+	text-align:right;
+}
+	
+	
+	
+	.galeria{
+	padding-left:10px;
+}
+
+.item,
+.item-hover,
+.item-hover .mask,
+.item-img,
+.item-type-move .item-info {
+	width:250px;
+	height:354px;
+}
+
+.headline {
+	font-size:20px !important;
+	line-height:30px !important;							
+}
+
+.item-type-move .item-hover {	
+	-webkit-transition: all 300ms ease-out;
+	-moz-transition: all 300ms ease-out;
+	-o-transition: all 300ms ease-out;
+	transition: all 300ms ease-out;	
+	opacity:0;
+	cursor:pointer;		
+	z-index:100;
+}
+
+
+
+#navieras{
+	top:95%;
+}
+
+.lg-navieras{
+	width:625px;
+	padding:10px 0 5px 25px;
+}
+
+.lg-navieras img{
+	margin-right:12px;
+	width:65px;
+	height:25px;
+}
+
+.caja-texto{
+	padding:45px 0 20px 0;
+}
+
+.caja-texto2{
+	padding:20px 0 20px 0;
+}
+	
+	h1{
+	font-size:22px !important;
+	line-height:35px;
+}
+
+h2{
+	font-size:20px !important;
+	line-height:20px;
+	margin:0 0 10px 0 !important;
+}
+
+.intro{
+	font-size:13px;
+	line-height:20px;
+	margin:0 auto 0 auto;
+	width:625px;	
+}
+
+}
+
